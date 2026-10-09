@@ -5,7 +5,7 @@ Currículo e portfólio de **Bruno Bastos Dorneles**, estudante de Inteligência
 ## Perfis e currículo
 
 - [Portfólio e currículo online](https://dornelesbruno21.github.io/portfolio-e-curriculo/)
-- [LinkedIn](https://www.linkedin.com/in/bruno-dorneles-64b763442)
+- [LinkedIn](https://www.linkedin.com/in/bruno-bastos-dorneles-64b763442)
 - [GitHub](https://github.com/dornelesbruno21)
 - [Currículo Lattes](http://lattes.cnpq.br/3241889026154487)
 
