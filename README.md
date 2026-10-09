@@ -2,6 +2,15 @@
 
 Currículo e portfólio de **Bruno Bastos Dorneles**, estudante de Inteligência Artificial na Universidade La Salle, com apresentação, formação e projetos de desenvolvimento web e integração de IA.
 
+## Perfis e currículo
+
+- [Portfólio e currículo online](https://dornelesbruno21.github.io/portfolio-e-curriculo/)
+- [LinkedIn](https://www.linkedin.com/in/bruno-dorneles-64b763442)
+- [GitHub](https://github.com/dornelesbruno21)
+- [Currículo Lattes](http://lattes.cnpq.br/3241889026154487)
+
+O botão **Salvar em PDF** inclui esses links na versão para impressão.
+
 ## Projetos em destaque
 
 - [Studio Bailare](https://github.com/dornelesbruno21/studio-bailare): gestão de estúdio de dança, cadastros, agenda, galeria e bilheteria. A edição pública utiliza dados fictícios.
