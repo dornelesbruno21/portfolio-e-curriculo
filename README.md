@@ -1,6 +1,6 @@
 # Bruno Dorneles — Currículo e portfólio
 
-Portfólio pessoal de **Bruno Bastos Dorneles**, com apresentação e projetos de desenvolvimento web e integração de IA.
+Currículo e portfólio de **Bruno Bastos Dorneles**, estudante de Inteligência Artificial na Universidade La Salle, com apresentação, formação e projetos de desenvolvimento web e integração de IA.
 
 ## Projetos em destaque
 
@@ -25,7 +25,7 @@ No GitHub Pages, configure a publicação pela branch `main`, pasta raiz. A disp
 
 ## Conteúdo e privacidade
 
-O currículo público usa apenas nome e perfil do GitHub. Não publica telefone, endereço residencial, documentos ou dados bancários. Formação, histórico profissional e contatos adicionais só devem ser incluídos após confirmação do titular.
+O currículo público usa nome, formação, conhecimentos, projetos, perfil do GitHub e e-mail autorizados pelo titular. Não publica telefone, endereço residencial, documentos ou dados bancários. Não inclui experiências profissionais ou datas não informadas.
 
 ## Origem
 
