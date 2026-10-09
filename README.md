@@ -1,40 +1,32 @@
-# Oficina: Enriquecendo seu portfólio com IA
+# Bruno Dorneles — Currículo e portfólio
 
-Bem-vindo(a)! Ao final desta oficina você terá um portfólio pessoal
-profissional publicado no seu próprio GitHub.
+Portfólio pessoal de **Bruno Bastos Dorneles**, com apresentação e projetos de desenvolvimento web e integração de IA.
 
-## Antes de começar — Setup (siga NESTA ordem)
+## Projetos em destaque
 
-### 1. Instale o VS Code
-Baixe em https://code.visualstudio.com e instale.
+- [Studio Bailare](https://github.com/dornelesbruno21/studio-bailare): gestão de estúdio de dança, cadastros, agenda, galeria e bilheteria. A edição pública utiliza dados fictícios.
+- [TutorIA Exatas](https://github.com/dornelesbruno21/TutorIA): protótipo de assistente de estudos com integração ao Dify.
 
-### 2. Instale a extensão Live Server
-No VS Code: ícone de extensões (lado esquerdo) → busque "Live Server"
-(autor: Ritwick Dey) → Install.
+## Executar
 
-### 3. Instale o Git
-Baixe em https://git-scm.com/downloads e instale.
-(Instale o VS Code ANTES do Git para evitar erros de configuração.)
+Abra `index.html` no navegador ou sirva a pasta com um servidor estático. Não há dependências de instalação, backend ou chaves de API neste portfólio.
 
-### 4. Crie seu portfólio a partir deste template
-1. No topo deste repositório, clique em **"Use this template"** →
-   **"Create a new repository"**.
-2. Dê o nome `meu-portfolio` e crie.
-3. Copie a URL do SEU novo repositório.
+## Recursos
 
-### 5. Clone o seu repositório
-Abra o terminal e rode (troque SEU-USUARIO):
-```bash
-git clone https://github.com/SEU-USUARIO/meu-portfolio.git
-cd meu-portfolio
-```
+- Layout responsivo para desktop e celular.
+- Navegação por seções e foco visível para teclado.
+- Botão **Salvar em PDF**, que abre a impressão do navegador com estilos específicos para currículo.
+- Links para código e documentação dos projetos.
+- Sem rastreadores, formulário de coleta ou fontes externas.
 
-### 6. Abra no VS Code e inicie o Live Server
-1. Abra a pasta no VS Code.
-2. Clique com o botão direito em `index.html` → **"Open with Live Server"**.
-3. Seu portfólio abre no navegador. Pronto para personalizar!
+## Publicação
 
-## Estrutura do projeto
-- `index.html` — o conteúdo do seu portfólio
-- `style.css` — as cores e o layout
-- `assets/` — suas imagens
+No GitHub Pages, configure a publicação pela branch `main`, pasta raiz. A disponibilidade do site depende da conclusão da implantação no GitHub.
+
+## Conteúdo e privacidade
+
+O currículo público usa apenas nome e perfil do GitHub. Não publica telefone, endereço residencial, documentos ou dados bancários. Formação, histórico profissional e contatos adicionais só devem ser incluídos após confirmação do titular.
+
+## Origem
+
+Personalizado a partir do modelo educacional [OficinaLowCode](https://github.com/marianarocha-dev/OficinaLowCode), de marianarocha-dev. A estrutura inicial deste repositório veio dessa oficina. A personalização de conteúdo e layout foi realizada com apoio de IA.
